@@ -1,0 +1,7 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'MusicRadio' do
+        pod 'Alamofire', '~> 3.4.1'
+        pod 'KGFloatingDrawer', '~> 0.2.0'
+end

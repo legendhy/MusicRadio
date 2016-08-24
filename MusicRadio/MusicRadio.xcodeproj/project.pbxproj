@@ -7,190 +7,190 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		56EF39611D6D5A8B0059805B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39601D6D5A8B0059805B /* AppDelegate.swift */; };
-		56EF39631D6D5A8B0059805B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39621D6D5A8B0059805B /* ViewController.swift */; };
-		56EF39661D6D5A8B0059805B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39641D6D5A8B0059805B /* Main.storyboard */; };
-		56EF39681D6D5A8B0059805B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39671D6D5A8B0059805B /* Assets.xcassets */; };
-		56EF396B1D6D5A8B0059805B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39691D6D5A8B0059805B /* LaunchScreen.storyboard */; };
-		56EF39751D6D669E0059805B /* MyObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39741D6D669E0059805B /* MyObject.m */; };
-		56EF398C1D6D67550059805B /* AFAudioRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39781D6D67550059805B /* AFAudioRouter.m */; };
-		56EF398D1D6D67550059805B /* AFSoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF397A1D6D67550059805B /* AFSoundManager.m */; };
-		56EF398E1D6D67550059805B /* UIColor+KVNContrast.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF397E1D6D67550059805B /* UIColor+KVNContrast.m */; };
-		56EF398F1D6D67550059805B /* UIImage+KVNEmpty.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39801D6D67550059805B /* UIImage+KVNEmpty.m */; };
-		56EF39901D6D67550059805B /* UIImage+KVNImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39821D6D67550059805B /* UIImage+KVNImageEffects.m */; };
-		56EF39911D6D67550059805B /* KVNProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39851D6D67550059805B /* KVNProgress.m */; };
-		56EF39921D6D67550059805B /* KVNProgressConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39871D6D67550059805B /* KVNProgressConfiguration.m */; };
-		56EF39931D6D67550059805B /* KVNRotationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39891D6D67550059805B /* KVNRotationViewController.m */; };
-		56EF39941D6D67550059805B /* KVNProgressView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56EF398B1D6D67550059805B /* KVNProgressView.xib */; };
-		F462E19FE9BE19C46BA2B2BE /* Pods_MusicRadio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6AFFBC266402C6061651CD88 /* Pods_MusicRadio.framework */; };
+		56EF39E61D6D6F890059805B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39E51D6D6F890059805B /* AppDelegate.swift */; };
+		56EF39E81D6D6F890059805B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39E71D6D6F890059805B /* ViewController.swift */; };
+		56EF39EB1D6D6F890059805B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39E91D6D6F890059805B /* Main.storyboard */; };
+		56EF39ED1D6D6F890059805B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39EC1D6D6F890059805B /* Assets.xcassets */; };
+		56EF39F01D6D6F890059805B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39EE1D6D6F890059805B /* LaunchScreen.storyboard */; };
+		56EF39FA1D6D70370059805B /* MyObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39F91D6D70370059805B /* MyObject.m */; };
+		56EF3A111D6D70950059805B /* AFAudioRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39FD1D6D70950059805B /* AFAudioRouter.m */; };
+		56EF3A121D6D70950059805B /* AFSoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39FF1D6D70950059805B /* AFSoundManager.m */; };
+		56EF3A131D6D70950059805B /* UIColor+KVNContrast.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A031D6D70950059805B /* UIColor+KVNContrast.m */; };
+		56EF3A141D6D70950059805B /* UIImage+KVNEmpty.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A051D6D70950059805B /* UIImage+KVNEmpty.m */; };
+		56EF3A151D6D70950059805B /* UIImage+KVNImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A071D6D70950059805B /* UIImage+KVNImageEffects.m */; };
+		56EF3A161D6D70950059805B /* KVNProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A0A1D6D70950059805B /* KVNProgress.m */; };
+		56EF3A171D6D70950059805B /* KVNProgressConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A0C1D6D70950059805B /* KVNProgressConfiguration.m */; };
+		56EF3A181D6D70950059805B /* KVNRotationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A0E1D6D70950059805B /* KVNRotationViewController.m */; };
+		56EF3A191D6D70950059805B /* KVNProgressView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56EF3A101D6D70950059805B /* KVNProgressView.xib */; };
+		B7FB3AD2A2E844A7DB3D20B6 /* Pods_MusicRadio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65DC892B51E64C688AF9E381 /* Pods_MusicRadio.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		47C995A184E4091CC282CE1D /* Pods-MusicRadio.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicRadio.release.xcconfig"; path = "Pods/Target Support Files/Pods-MusicRadio/Pods-MusicRadio.release.xcconfig"; sourceTree = "<group>"; };
-		56EF395D1D6D5A8B0059805B /* MusicRadio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicRadio.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		56EF39601D6D5A8B0059805B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		56EF39621D6D5A8B0059805B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		56EF39651D6D5A8B0059805B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		56EF39671D6D5A8B0059805B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		56EF396A1D6D5A8B0059805B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		56EF396C1D6D5A8B0059805B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56EF39721D6D669E0059805B /* MusicRadio-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MusicRadio-Bridging-Header.h"; sourceTree = SOURCE_ROOT; };
-		56EF39731D6D669E0059805B /* MyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyObject.h; path = ../MyObject.h; sourceTree = "<group>"; };
-		56EF39741D6D669E0059805B /* MyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyObject.m; path = ../MyObject.m; sourceTree = "<group>"; };
-		56EF39771D6D67550059805B /* AFAudioRouter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFAudioRouter.h; sourceTree = "<group>"; };
-		56EF39781D6D67550059805B /* AFAudioRouter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFAudioRouter.m; sourceTree = "<group>"; };
-		56EF39791D6D67550059805B /* AFSoundManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSoundManager.h; sourceTree = "<group>"; };
-		56EF397A1D6D67550059805B /* AFSoundManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSoundManager.m; sourceTree = "<group>"; };
-		56EF397D1D6D67550059805B /* UIColor+KVNContrast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+KVNContrast.h"; sourceTree = "<group>"; };
-		56EF397E1D6D67550059805B /* UIColor+KVNContrast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+KVNContrast.m"; sourceTree = "<group>"; };
-		56EF397F1D6D67550059805B /* UIImage+KVNEmpty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+KVNEmpty.h"; sourceTree = "<group>"; };
-		56EF39801D6D67550059805B /* UIImage+KVNEmpty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KVNEmpty.m"; sourceTree = "<group>"; };
-		56EF39811D6D67550059805B /* UIImage+KVNImageEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+KVNImageEffects.h"; sourceTree = "<group>"; };
-		56EF39821D6D67550059805B /* UIImage+KVNImageEffects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KVNImageEffects.m"; sourceTree = "<group>"; };
-		56EF39841D6D67550059805B /* KVNProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVNProgress.h; sourceTree = "<group>"; };
-		56EF39851D6D67550059805B /* KVNProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVNProgress.m; sourceTree = "<group>"; };
-		56EF39861D6D67550059805B /* KVNProgressConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVNProgressConfiguration.h; sourceTree = "<group>"; };
-		56EF39871D6D67550059805B /* KVNProgressConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVNProgressConfiguration.m; sourceTree = "<group>"; };
-		56EF39881D6D67550059805B /* KVNRotationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVNRotationViewController.h; sourceTree = "<group>"; };
-		56EF39891D6D67550059805B /* KVNRotationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVNRotationViewController.m; sourceTree = "<group>"; };
-		56EF398B1D6D67550059805B /* KVNProgressView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KVNProgressView.xib; sourceTree = "<group>"; };
-		6AFFBC266402C6061651CD88 /* Pods_MusicRadio.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MusicRadio.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		93AF0E60399D27E4C9661486 /* Pods-MusicRadio.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicRadio.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MusicRadio/Pods-MusicRadio.debug.xcconfig"; sourceTree = "<group>"; };
+		56EF39E21D6D6F890059805B /* MusicRadio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MusicRadio.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		56EF39E51D6D6F890059805B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		56EF39E71D6D6F890059805B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		56EF39EA1D6D6F890059805B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		56EF39EC1D6D6F890059805B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		56EF39EF1D6D6F890059805B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		56EF39F11D6D6F890059805B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56EF39F71D6D70370059805B /* MusicRadio-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MusicRadio-Bridging-Header.h"; sourceTree = "<group>"; };
+		56EF39F81D6D70370059805B /* MyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyObject.h; sourceTree = "<group>"; };
+		56EF39F91D6D70370059805B /* MyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyObject.m; sourceTree = "<group>"; };
+		56EF39FC1D6D70950059805B /* AFAudioRouter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFAudioRouter.h; sourceTree = "<group>"; };
+		56EF39FD1D6D70950059805B /* AFAudioRouter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFAudioRouter.m; sourceTree = "<group>"; };
+		56EF39FE1D6D70950059805B /* AFSoundManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSoundManager.h; sourceTree = "<group>"; };
+		56EF39FF1D6D70950059805B /* AFSoundManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSoundManager.m; sourceTree = "<group>"; };
+		56EF3A021D6D70950059805B /* UIColor+KVNContrast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+KVNContrast.h"; sourceTree = "<group>"; };
+		56EF3A031D6D70950059805B /* UIColor+KVNContrast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+KVNContrast.m"; sourceTree = "<group>"; };
+		56EF3A041D6D70950059805B /* UIImage+KVNEmpty.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+KVNEmpty.h"; sourceTree = "<group>"; };
+		56EF3A051D6D70950059805B /* UIImage+KVNEmpty.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KVNEmpty.m"; sourceTree = "<group>"; };
+		56EF3A061D6D70950059805B /* UIImage+KVNImageEffects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+KVNImageEffects.h"; sourceTree = "<group>"; };
+		56EF3A071D6D70950059805B /* UIImage+KVNImageEffects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KVNImageEffects.m"; sourceTree = "<group>"; };
+		56EF3A091D6D70950059805B /* KVNProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVNProgress.h; sourceTree = "<group>"; };
+		56EF3A0A1D6D70950059805B /* KVNProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVNProgress.m; sourceTree = "<group>"; };
+		56EF3A0B1D6D70950059805B /* KVNProgressConfiguration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVNProgressConfiguration.h; sourceTree = "<group>"; };
+		56EF3A0C1D6D70950059805B /* KVNProgressConfiguration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVNProgressConfiguration.m; sourceTree = "<group>"; };
+		56EF3A0D1D6D70950059805B /* KVNRotationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVNRotationViewController.h; sourceTree = "<group>"; };
+		56EF3A0E1D6D70950059805B /* KVNRotationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVNRotationViewController.m; sourceTree = "<group>"; };
+		56EF3A101D6D70950059805B /* KVNProgressView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KVNProgressView.xib; sourceTree = "<group>"; };
+		65DC892B51E64C688AF9E381 /* Pods_MusicRadio.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MusicRadio.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B08704B16CF14A7A7A04FE73 /* Pods-MusicRadio.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicRadio.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MusicRadio/Pods-MusicRadio.debug.xcconfig"; sourceTree = "<group>"; };
+		CF7AF37BBD5F2509D98CD238 /* Pods-MusicRadio.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MusicRadio.release.xcconfig"; path = "Pods/Target Support Files/Pods-MusicRadio/Pods-MusicRadio.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		56EF395A1D6D5A8B0059805B /* Frameworks */ = {
+		56EF39DF1D6D6F890059805B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F462E19FE9BE19C46BA2B2BE /* Pods_MusicRadio.framework in Frameworks */,
+				B7FB3AD2A2E844A7DB3D20B6 /* Pods_MusicRadio.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		56EF39541D6D5A8B0059805B = {
+		56EF39D91D6D6F890059805B = {
 			isa = PBXGroup;
 			children = (
-				56EF395F1D6D5A8B0059805B /* MusicRadio */,
-				56EF395E1D6D5A8B0059805B /* Products */,
-				B37EEB3D9D4CF28E7E29DE1B /* Pods */,
-				97AD5608CF2DE50FEA8A2C7E /* Frameworks */,
+				56EF39E41D6D6F890059805B /* MusicRadio */,
+				56EF39E31D6D6F890059805B /* Products */,
+				84283442CAD580AC9B05293B /* Pods */,
+				DB01B7D4EB8F57D1CC9188C6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		56EF395E1D6D5A8B0059805B /* Products */ = {
+		56EF39E31D6D6F890059805B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				56EF395D1D6D5A8B0059805B /* MusicRadio.app */,
+				56EF39E21D6D6F890059805B /* MusicRadio.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		56EF395F1D6D5A8B0059805B /* MusicRadio */ = {
+		56EF39E41D6D6F890059805B /* MusicRadio */ = {
 			isa = PBXGroup;
 			children = (
-				56EF39601D6D5A8B0059805B /* AppDelegate.swift */,
-				56EF39621D6D5A8B0059805B /* ViewController.swift */,
-				56EF39641D6D5A8B0059805B /* Main.storyboard */,
-				56EF39671D6D5A8B0059805B /* Assets.xcassets */,
-				56EF39691D6D5A8B0059805B /* LaunchScreen.storyboard */,
-				56EF396C1D6D5A8B0059805B /* Info.plist */,
-				56EF39731D6D669E0059805B /* MyObject.h */,
-				56EF39741D6D669E0059805B /* MyObject.m */,
-				56EF39721D6D669E0059805B /* MusicRadio-Bridging-Header.h */,
-				56EF39761D6D67550059805B /* AFSoundManager */,
-				56EF397B1D6D67550059805B /* KVNProgress */,
+				56EF39E51D6D6F890059805B /* AppDelegate.swift */,
+				56EF39E71D6D6F890059805B /* ViewController.swift */,
+				56EF39E91D6D6F890059805B /* Main.storyboard */,
+				56EF39EC1D6D6F890059805B /* Assets.xcassets */,
+				56EF39EE1D6D6F890059805B /* LaunchScreen.storyboard */,
+				56EF39F81D6D70370059805B /* MyObject.h */,
+				56EF39F91D6D70370059805B /* MyObject.m */,
+				56EF39F11D6D6F890059805B /* Info.plist */,
+				56EF39F71D6D70370059805B /* MusicRadio-Bridging-Header.h */,
+				56EF39FB1D6D70950059805B /* AFSoundManager */,
+				56EF3A001D6D70950059805B /* KVNProgress */,
 			);
 			path = MusicRadio;
 			sourceTree = "<group>";
 		};
-		56EF39761D6D67550059805B /* AFSoundManager */ = {
+		56EF39FB1D6D70950059805B /* AFSoundManager */ = {
 			isa = PBXGroup;
 			children = (
-				56EF39771D6D67550059805B /* AFAudioRouter.h */,
-				56EF39781D6D67550059805B /* AFAudioRouter.m */,
-				56EF39791D6D67550059805B /* AFSoundManager.h */,
-				56EF397A1D6D67550059805B /* AFSoundManager.m */,
+				56EF39FC1D6D70950059805B /* AFAudioRouter.h */,
+				56EF39FD1D6D70950059805B /* AFAudioRouter.m */,
+				56EF39FE1D6D70950059805B /* AFSoundManager.h */,
+				56EF39FF1D6D70950059805B /* AFSoundManager.m */,
 			);
 			path = AFSoundManager;
 			sourceTree = "<group>";
 		};
-		56EF397B1D6D67550059805B /* KVNProgress */ = {
+		56EF3A001D6D70950059805B /* KVNProgress */ = {
 			isa = PBXGroup;
 			children = (
-				56EF397C1D6D67550059805B /* Categories */,
-				56EF39831D6D67550059805B /* Classes */,
-				56EF398A1D6D67550059805B /* Resources */,
+				56EF3A011D6D70950059805B /* Categories */,
+				56EF3A081D6D70950059805B /* Classes */,
+				56EF3A0F1D6D70950059805B /* Resources */,
 			);
 			path = KVNProgress;
 			sourceTree = "<group>";
 		};
-		56EF397C1D6D67550059805B /* Categories */ = {
+		56EF3A011D6D70950059805B /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				56EF397D1D6D67550059805B /* UIColor+KVNContrast.h */,
-				56EF397E1D6D67550059805B /* UIColor+KVNContrast.m */,
-				56EF397F1D6D67550059805B /* UIImage+KVNEmpty.h */,
-				56EF39801D6D67550059805B /* UIImage+KVNEmpty.m */,
-				56EF39811D6D67550059805B /* UIImage+KVNImageEffects.h */,
-				56EF39821D6D67550059805B /* UIImage+KVNImageEffects.m */,
+				56EF3A021D6D70950059805B /* UIColor+KVNContrast.h */,
+				56EF3A031D6D70950059805B /* UIColor+KVNContrast.m */,
+				56EF3A041D6D70950059805B /* UIImage+KVNEmpty.h */,
+				56EF3A051D6D70950059805B /* UIImage+KVNEmpty.m */,
+				56EF3A061D6D70950059805B /* UIImage+KVNImageEffects.h */,
+				56EF3A071D6D70950059805B /* UIImage+KVNImageEffects.m */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
 		};
-		56EF39831D6D67550059805B /* Classes */ = {
+		56EF3A081D6D70950059805B /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				56EF39841D6D67550059805B /* KVNProgress.h */,
-				56EF39851D6D67550059805B /* KVNProgress.m */,
-				56EF39861D6D67550059805B /* KVNProgressConfiguration.h */,
-				56EF39871D6D67550059805B /* KVNProgressConfiguration.m */,
-				56EF39881D6D67550059805B /* KVNRotationViewController.h */,
-				56EF39891D6D67550059805B /* KVNRotationViewController.m */,
+				56EF3A091D6D70950059805B /* KVNProgress.h */,
+				56EF3A0A1D6D70950059805B /* KVNProgress.m */,
+				56EF3A0B1D6D70950059805B /* KVNProgressConfiguration.h */,
+				56EF3A0C1D6D70950059805B /* KVNProgressConfiguration.m */,
+				56EF3A0D1D6D70950059805B /* KVNRotationViewController.h */,
+				56EF3A0E1D6D70950059805B /* KVNRotationViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		56EF398A1D6D67550059805B /* Resources */ = {
+		56EF3A0F1D6D70950059805B /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				56EF398B1D6D67550059805B /* KVNProgressView.xib */,
+				56EF3A101D6D70950059805B /* KVNProgressView.xib */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		97AD5608CF2DE50FEA8A2C7E /* Frameworks */ = {
+		84283442CAD580AC9B05293B /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				6AFFBC266402C6061651CD88 /* Pods_MusicRadio.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		B37EEB3D9D4CF28E7E29DE1B /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				93AF0E60399D27E4C9661486 /* Pods-MusicRadio.debug.xcconfig */,
-				47C995A184E4091CC282CE1D /* Pods-MusicRadio.release.xcconfig */,
+				B08704B16CF14A7A7A04FE73 /* Pods-MusicRadio.debug.xcconfig */,
+				CF7AF37BBD5F2509D98CD238 /* Pods-MusicRadio.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		DB01B7D4EB8F57D1CC9188C6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				65DC892B51E64C688AF9E381 /* Pods_MusicRadio.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		56EF395C1D6D5A8B0059805B /* MusicRadio */ = {
+		56EF39E11D6D6F890059805B /* MusicRadio */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56EF396F1D6D5A8B0059805B /* Build configuration list for PBXNativeTarget "MusicRadio" */;
+			buildConfigurationList = 56EF39F41D6D6F890059805B /* Build configuration list for PBXNativeTarget "MusicRadio" */;
 			buildPhases = (
-				0EC3A0F852495B1A0DA41BC6 /* [CP] Check Pods Manifest.lock */,
-				56EF39591D6D5A8B0059805B /* Sources */,
-				56EF395A1D6D5A8B0059805B /* Frameworks */,
-				56EF395B1D6D5A8B0059805B /* Resources */,
-				05876712982FC7CFBBD48F7A /* [CP] Embed Pods Frameworks */,
-				D0366EA35535552A956FC64E /* [CP] Copy Pods Resources */,
+				1E9D9873DD36946619A105F1 /* [CP] Check Pods Manifest.lock */,
+				56EF39DE1D6D6F890059805B /* Sources */,
+				56EF39DF1D6D6F890059805B /* Frameworks */,
+				56EF39E01D6D6F890059805B /* Resources */,
+				9CCDF0A24A80CBD9D05C3E0A /* [CP] Embed Pods Frameworks */,
+				BBCF4273AEA82DF7E38D5C8E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -198,26 +198,26 @@
 			);
 			name = MusicRadio;
 			productName = MusicRadio;
-			productReference = 56EF395D1D6D5A8B0059805B /* MusicRadio.app */;
+			productReference = 56EF39E21D6D6F890059805B /* MusicRadio.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		56EF39551D6D5A8B0059805B /* Project object */ = {
+		56EF39DA1D6D6F890059805B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = huangyu;
 				TargetAttributes = {
-					56EF395C1D6D5A8B0059805B = {
+					56EF39E11D6D6F890059805B = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = HWLYWLKELQ;
 					};
 				};
 			};
-			buildConfigurationList = 56EF39581D6D5A8B0059805B /* Build configuration list for PBXProject "MusicRadio" */;
+			buildConfigurationList = 56EF39DD1D6D6F890059805B /* Build configuration list for PBXProject "MusicRadio" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -225,47 +225,32 @@
 				en,
 				Base,
 			);
-			mainGroup = 56EF39541D6D5A8B0059805B;
-			productRefGroup = 56EF395E1D6D5A8B0059805B /* Products */;
+			mainGroup = 56EF39D91D6D6F890059805B;
+			productRefGroup = 56EF39E31D6D6F890059805B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				56EF395C1D6D5A8B0059805B /* MusicRadio */,
+				56EF39E11D6D6F890059805B /* MusicRadio */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		56EF395B1D6D5A8B0059805B /* Resources */ = {
+		56EF39E01D6D6F890059805B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56EF396B1D6D5A8B0059805B /* LaunchScreen.storyboard in Resources */,
-				56EF39681D6D5A8B0059805B /* Assets.xcassets in Resources */,
-				56EF39661D6D5A8B0059805B /* Main.storyboard in Resources */,
-				56EF39941D6D67550059805B /* KVNProgressView.xib in Resources */,
+				56EF39F01D6D6F890059805B /* LaunchScreen.storyboard in Resources */,
+				56EF39ED1D6D6F890059805B /* Assets.xcassets in Resources */,
+				56EF39EB1D6D6F890059805B /* Main.storyboard in Resources */,
+				56EF3A191D6D70950059805B /* KVNProgressView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		05876712982FC7CFBBD48F7A /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MusicRadio/Pods-MusicRadio-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		0EC3A0F852495B1A0DA41BC6 /* [CP] Check Pods Manifest.lock */ = {
+		1E9D9873DD36946619A105F1 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -280,7 +265,22 @@
 			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		D0366EA35535552A956FC64E /* [CP] Copy Pods Resources */ = {
+		9CCDF0A24A80CBD9D05C3E0A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MusicRadio/Pods-MusicRadio-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BBCF4273AEA82DF7E38D5C8E /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -298,39 +298,39 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		56EF39591D6D5A8B0059805B /* Sources */ = {
+		56EF39DE1D6D6F890059805B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56EF398C1D6D67550059805B /* AFAudioRouter.m in Sources */,
-				56EF398F1D6D67550059805B /* UIImage+KVNEmpty.m in Sources */,
-				56EF39901D6D67550059805B /* UIImage+KVNImageEffects.m in Sources */,
-				56EF398D1D6D67550059805B /* AFSoundManager.m in Sources */,
-				56EF39931D6D67550059805B /* KVNRotationViewController.m in Sources */,
-				56EF39631D6D5A8B0059805B /* ViewController.swift in Sources */,
-				56EF39921D6D67550059805B /* KVNProgressConfiguration.m in Sources */,
-				56EF39911D6D67550059805B /* KVNProgress.m in Sources */,
-				56EF398E1D6D67550059805B /* UIColor+KVNContrast.m in Sources */,
-				56EF39611D6D5A8B0059805B /* AppDelegate.swift in Sources */,
-				56EF39751D6D669E0059805B /* MyObject.m in Sources */,
+				56EF3A111D6D70950059805B /* AFAudioRouter.m in Sources */,
+				56EF3A141D6D70950059805B /* UIImage+KVNEmpty.m in Sources */,
+				56EF3A151D6D70950059805B /* UIImage+KVNImageEffects.m in Sources */,
+				56EF3A121D6D70950059805B /* AFSoundManager.m in Sources */,
+				56EF3A181D6D70950059805B /* KVNRotationViewController.m in Sources */,
+				56EF39E81D6D6F890059805B /* ViewController.swift in Sources */,
+				56EF3A171D6D70950059805B /* KVNProgressConfiguration.m in Sources */,
+				56EF3A161D6D70950059805B /* KVNProgress.m in Sources */,
+				56EF3A131D6D70950059805B /* UIColor+KVNContrast.m in Sources */,
+				56EF39E61D6D6F890059805B /* AppDelegate.swift in Sources */,
+				56EF39FA1D6D70370059805B /* MyObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		56EF39641D6D5A8B0059805B /* Main.storyboard */ = {
+		56EF39E91D6D6F890059805B /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				56EF39651D6D5A8B0059805B /* Base */,
+				56EF39EA1D6D6F890059805B /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		56EF39691D6D5A8B0059805B /* LaunchScreen.storyboard */ = {
+		56EF39EE1D6D6F890059805B /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				56EF396A1D6D5A8B0059805B /* Base */,
+				56EF39EF1D6D6F890059805B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -338,7 +338,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		56EF396D1D6D5A8B0059805B /* Debug */ = {
+		56EF39F21D6D6F890059805B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -383,7 +383,7 @@
 			};
 			name = Debug;
 		};
-		56EF396E1D6D5A8B0059805B /* Release */ = {
+		56EF39F31D6D6F890059805B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -421,9 +421,9 @@
 			};
 			name = Release;
 		};
-		56EF39701D6D5A8B0059805B /* Debug */ = {
+		56EF39F51D6D6F890059805B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 93AF0E60399D27E4C9661486 /* Pods-MusicRadio.debug.xcconfig */;
+			baseConfigurationReference = B08704B16CF14A7A7A04FE73 /* Pods-MusicRadio.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -431,14 +431,14 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = first.MusicRadio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "MusicRadio-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "MusicRadio/MusicRadio-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		56EF39711D6D5A8B0059805B /* Release */ = {
+		56EF39F61D6D6F890059805B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 47C995A184E4091CC282CE1D /* Pods-MusicRadio.release.xcconfig */;
+			baseConfigurationReference = CF7AF37BBD5F2509D98CD238 /* Pods-MusicRadio.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -446,32 +446,32 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = first.MusicRadio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "MusicRadio-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "MusicRadio/MusicRadio-Bridging-Header.h";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		56EF39581D6D5A8B0059805B /* Build configuration list for PBXProject "MusicRadio" */ = {
+		56EF39DD1D6D6F890059805B /* Build configuration list for PBXProject "MusicRadio" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				56EF396D1D6D5A8B0059805B /* Debug */,
-				56EF396E1D6D5A8B0059805B /* Release */,
+				56EF39F21D6D6F890059805B /* Debug */,
+				56EF39F31D6D6F890059805B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56EF396F1D6D5A8B0059805B /* Build configuration list for PBXNativeTarget "MusicRadio" */ = {
+		56EF39F41D6D6F890059805B /* Build configuration list for PBXNativeTarget "MusicRadio" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				56EF39701D6D5A8B0059805B /* Debug */,
-				56EF39711D6D5A8B0059805B /* Release */,
+				56EF39F51D6D6F890059805B /* Debug */,
+				56EF39F61D6D6F890059805B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 56EF39551D6D5A8B0059805B /* Project object */;
+	rootObject = 56EF39DA1D6D6F890059805B /* Project object */;
 }
