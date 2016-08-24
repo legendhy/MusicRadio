@@ -12,7 +12,6 @@
 		56EF39EB1D6D6F890059805B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39E91D6D6F890059805B /* Main.storyboard */; };
 		56EF39ED1D6D6F890059805B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39EC1D6D6F890059805B /* Assets.xcassets */; };
 		56EF39F01D6D6F890059805B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56EF39EE1D6D6F890059805B /* LaunchScreen.storyboard */; };
-		56EF39FA1D6D70370059805B /* MyObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39F91D6D70370059805B /* MyObject.m */; };
 		56EF3A111D6D70950059805B /* AFAudioRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39FD1D6D70950059805B /* AFAudioRouter.m */; };
 		56EF3A121D6D70950059805B /* AFSoundManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF39FF1D6D70950059805B /* AFSoundManager.m */; };
 		56EF3A131D6D70950059805B /* UIColor+KVNContrast.m in Sources */ = {isa = PBXBuildFile; fileRef = 56EF3A031D6D70950059805B /* UIColor+KVNContrast.m */; };
@@ -34,8 +33,6 @@
 		56EF39EF1D6D6F890059805B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56EF39F11D6D6F890059805B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		56EF39F71D6D70370059805B /* MusicRadio-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MusicRadio-Bridging-Header.h"; sourceTree = "<group>"; };
-		56EF39F81D6D70370059805B /* MyObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyObject.h; sourceTree = "<group>"; };
-		56EF39F91D6D70370059805B /* MyObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyObject.m; sourceTree = "<group>"; };
 		56EF39FC1D6D70950059805B /* AFAudioRouter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFAudioRouter.h; sourceTree = "<group>"; };
 		56EF39FD1D6D70950059805B /* AFAudioRouter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFAudioRouter.m; sourceTree = "<group>"; };
 		56EF39FE1D6D70950059805B /* AFSoundManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSoundManager.h; sourceTree = "<group>"; };
@@ -96,8 +93,6 @@
 				56EF39E91D6D6F890059805B /* Main.storyboard */,
 				56EF39EC1D6D6F890059805B /* Assets.xcassets */,
 				56EF39EE1D6D6F890059805B /* LaunchScreen.storyboard */,
-				56EF39F81D6D70370059805B /* MyObject.h */,
-				56EF39F91D6D70370059805B /* MyObject.m */,
 				56EF39F11D6D6F890059805B /* Info.plist */,
 				56EF39F71D6D70370059805B /* MusicRadio-Bridging-Header.h */,
 				56EF39FB1D6D70950059805B /* AFSoundManager */,
@@ -312,7 +307,6 @@
 				56EF3A161D6D70950059805B /* KVNProgress.m in Sources */,
 				56EF3A131D6D70950059805B /* UIColor+KVNContrast.m in Sources */,
 				56EF39E61D6D6F890059805B /* AppDelegate.swift in Sources */,
-				56EF39FA1D6D70370059805B /* MyObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
